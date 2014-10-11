@@ -1,18 +1,25 @@
 Parallel Computing with Python
 ==============================
 
-This IPython notebook illustrates a few simple ways of doing parallel computing. Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
+[IPython notebook which illustrates a few simple ways of doing parallel computing.](http://nbviewer.ipython.org/github/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
+
+Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
 
 Practical examples included:
 
 1. Parallel function mapping to a list of arguments (multiprocessing module)
-2. Parallel execution of array function (scatter/gather) + parallel execution of scripts
-3. Easy parallel Monte Carlo (parallel magics)
+2. Parallel execution of array function (scatter/gather) + parallel execution of scripts with IPython.parallel
+3. Easy parallel Monte Carlo (IPython parallel magics)
 
 [How to install Python, IPython and dependencies](http://astropython.blogspot.com.br/2014/10/python-installation-instructions.html).
 
+&nbsp;
 
 [Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@astrorho](https://twitter.com/astrorho)).
+
+&nbsp;
+
+&nbsp;
 
 ---
 
