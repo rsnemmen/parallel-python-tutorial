@@ -1,7 +1,9 @@
 Parallel Computing with Python
 ==============================
 
-[IPython notebook which illustrates a few simple ways of doing parallel computing.](http://nbviewer.ipython.org/github/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
+[IPython notebook which illustrates a few simple ways of doing parallel computing in a single machine with multiple cores.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
+
+
 
 Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
 
