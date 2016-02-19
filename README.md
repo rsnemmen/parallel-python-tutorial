@@ -3,9 +3,7 @@ Parallel Computing with Python
 
 [IPython notebook which illustrates a few simple ways of doing parallel computing in a single machine with multiple cores.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
 
-
-
-Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
+[Tutorial on how to do parallel computing using an IPython cluster.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20SSH.ipynb)
 
 Practical examples included:
 
@@ -13,11 +11,18 @@ Practical examples included:
 2. Parallel execution of array function (scatter/gather) + parallel execution of scripts with IPython.parallel
 3. Easy parallel Monte Carlo (IPython parallel magics)
 
+Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
+
+
+## Other potentially useful links
+
 [How to install Python, IPython and dependencies](http://astropython.blogspot.com.br/2014/10/python-installation-instructions.html).
+
+[How to setup an IPython parallel cluster using SSH](http://astropython.blogspot.com.br/2016/02/how-to-setup-ipython-parallel-cluster.html)
 
 &nbsp;
 
-[Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@astrorho](https://twitter.com/astrorho)).
+[Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@astrorho](https://twitter.com/nemmen)).
 
 &nbsp;
 
@@ -30,7 +35,7 @@ Practical examples included:
 
 &nbsp;
 
-Copyright (c) 2014, [Rodrigo Nemmen](http://rodrigonemmen.com).
+Copyright (c) 2016, [Rodrigo Nemmen](http://rodrigonemmen.com).
 [All rights reserved](http://opensource.org/licenses/BSD-2-Clause).
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
