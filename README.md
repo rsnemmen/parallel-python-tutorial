@@ -22,7 +22,7 @@ Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [I
 
 &nbsp;
 
-[Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@astrorho](https://twitter.com/nemmen)).
+[Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@nemmen](https://twitter.com/nemmen)).
 
 &nbsp;
 
