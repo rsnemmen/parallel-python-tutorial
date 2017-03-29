@@ -14,17 +14,20 @@ Practical examples included:
 Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
 
 
-## Other potentially useful links
+# Other potentially useful links
 
 [How to install Python, IPython and dependencies](http://astropython.blogspot.com.br/2014/10/python-installation-instructions.html).
 
 [How to setup an IPython parallel cluster using SSH](http://astropython.blogspot.com.br/2016/02/how-to-setup-ipython-parallel-cluster.html)
 
+# TODO
+
+- [ ] include Dask example for parallel array processing
+- [ ] include example on how to parallelize loops
+
 &nbsp;
 
 [Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@nemmen](https://twitter.com/nemmen)).
-
-&nbsp;
 
 &nbsp;
 
