@@ -1,33 +1,34 @@
 Parallel Computing with Python
 ==============================
 
-[IPython notebook which illustrates a few simple ways of doing parallel computing in a single machine with multiple cores.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
+## Using `multiprocess` and `ipyparallel`
 
-[Tutorial on how to do parallel computing using an IPython cluster.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20SSH.ipynb)
+[Jupyter notebook illustrating a few simple ways of doing parallel computing in a single machine with multiple cores.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20public.ipynb) 
+
+[Tutorial on how to do parallel computing using an ipyparallel cluster.](https://github.com/rsnemmen/parallel-python-tutorial/blob/master/Parallel%20Computing%20with%20Python%20SSH.ipynb)
 
 Practical examples included:
 
-1. Parallel function mapping to a list of arguments (multiprocessing module)
-2. Parallel execution of array function (scatter/gather) + parallel execution of scripts with IPython.parallel
-3. Easy parallel Monte Carlo (IPython parallel magics)
+1. Parallel function mapping to a list of arguments (multiprocess module)
+2. Parallel execution of array function (scatter/gather) + parallel execution of scripts with ipyparallel
+3. Easy parallel Monte Carlo (ipyparallel magics)
 
 Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [IF USP](http://portal.if.usp.br/ifusp/).
 
 
 # Other potentially useful links
 
-[How to install Python, IPython and dependencies](http://astropython.blogspot.com.br/2014/10/python-installation-instructions.html).
-
-[How to setup an IPython parallel cluster using SSH](http://astropython.blogspot.com.br/2016/02/how-to-setup-ipython-parallel-cluster.html)
+[How to setup an ipyparallel cluster using SSH](http://astropython.blogspot.com.br/2016/02/how-to-setup-ipython-parallel-cluster.html). Note: this is probably deprecated.
 
 # TODO
 
 - [ ] include Dask example for parallel array processing
 - [ ] include example on how to parallelize loops
+- [x] update "public" notebooks
 
 &nbsp;
 
-[Visit the author's web page](http://www.astro.iag.usp.br/~nemmen/) and/or follow him on twitter ([@nemmen](https://twitter.com/nemmen)).
+[Visit the author's web page](https://rodrigonemmen.com/) and/or follow him on twitter ([@nemmen](https://twitter.com/nemmen)).
 
 &nbsp;
 
@@ -38,7 +39,7 @@ Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [I
 
 &nbsp;
 
-Copyright (c) 2016, [Rodrigo Nemmen](http://rodrigonemmen.com).
+Copyright (c) 2023, [Rodrigo Nemmen](https://rodrigonemmen.com).
 [All rights reserved](http://opensource.org/licenses/BSD-2-Clause).
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
