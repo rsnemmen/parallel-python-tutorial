@@ -24,7 +24,7 @@ Based on the talk I gave at [CosmoClub](http://www.iag.usp.br/labcosmos/en/), [I
 
 - [ ] include Dask example for parallel array processing
 - [ ] include example on how to parallelize loops
-- [x] update "public" notebooks
+- [ ] include a simple CUDA example? cuPY?
 
 &nbsp;
 
